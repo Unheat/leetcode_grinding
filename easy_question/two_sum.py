@@ -15,5 +15,6 @@ class Solution:
 trong hashtable/dictionary các data sẽ được lưu trữ dưới dạng key:value vả mỗi cặp này sẽ có index trong dic riêng
 nhưng index sẽ không được tạo theo thứ tự mà bán ngẫu nhiên dựa trên một các tính toán sao cho từ 1 key ra được 1 index rồi lưu trữ thẳng vào
 index đó. Vì mỗi khi tìm chỉ (line4) cần tính toán ra cái index đó dựa trên key đã cho, nên nó luôn là O(1)
+'''
 
         
